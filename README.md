@@ -1,2 +1,2 @@
 # PythonProjects 
-Python BAsics List
+Python Basics List
